@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vecihesmaa
-- 👀 I’m interested in machine learning,deep learning
+- 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning artificial intelligence algorithms
 - 💞️ I’m open to cooperation
 
