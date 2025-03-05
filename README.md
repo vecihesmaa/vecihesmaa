@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Vecihe Esma MIDIROĞLU</h3>
-<h3 align="center">A passionate data science and machine learning</h3>
+<h3 align="center">A passionate data science and machine learning and generative ai</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
